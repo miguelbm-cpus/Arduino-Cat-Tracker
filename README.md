@@ -1,2 +1,2 @@
 # Arduino-Cat-Tracker
-This repository aims to give a thorough description of the history and process through which the "cat tracker" was brought to life.
+The objective of this project is to create a cat tracker which allows a user to toggle between a outside and inside mode for my cat Frajola. Different family members often let him go outside, but at times, different family members are unaware of the fact. This project is a solution to that problem. A device that can be observed by all at my house and allows for full transparancy regarding Frajola's location.
